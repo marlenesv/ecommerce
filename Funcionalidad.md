@@ -1,0 +1,2 @@
+# Funcionalidad del proyecto
+_La aplicacion consistia en tener un login el cual te pedia un usuario y password, o bien teniamos una opcion de crear usuario, seguido, entrando al menu de administrador, nos aparecian las opciones de buscar, al igual que las ventanas de empleado, proveedor y prouductos, en las mismas podiamos escoger alguna y nos salian las opciones que comentamos antes, el editar, agregar, eliminar, etc. En conclusion fue una aplicacion funcional. 

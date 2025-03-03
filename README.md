@@ -1,0 +1,1 @@
+En el proyecto nuestra finalidad era hacer una base de datos acerca de una farmacia en la cual podiamos agregar producto, eliminar producto, editar producto, agregar empleados, proveedores, editarlos y eliminarlos.
